@@ -1,0 +1,5 @@
+name: 'islandora_rdm_views_access'
+type: module
+description: 'Controls access to individual views'
+core: 8.x
+package: 'Custom'

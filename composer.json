@@ -1,0 +1,14 @@
+{
+  "name": "drupal/islandora_rdm_views_access",
+  "type": "drupal-module",
+  "description": "Controls access to individual views",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/islandora_rdm_views_access",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/islandora_rdm_views_access",
+    "source": "http://cgit.drupalcode.org/islandora_rdm_views_access"
+  },
+  "require": { }
+}
